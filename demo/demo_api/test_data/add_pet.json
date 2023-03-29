@@ -1,0 +1,17 @@
+{
+    "category": {
+        "id": 0,
+        "name": "pet"
+    },
+    "name": "test_pet",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "string"
+        }
+    ],
+    "status": "available"
+}

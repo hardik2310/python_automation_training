@@ -1,0 +1,17 @@
+{
+    "category": {
+        "id": 0,
+        "name": "updated_pet_category_name"
+    },
+    "name": "updated_test_pet",
+    "photoUrls": [
+        "Updated_url"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "updated_tag_name"
+        }
+    ],
+    "status": "sold"
+}
